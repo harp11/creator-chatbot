@@ -1,10 +1,10 @@
-# 🎯 Hawa Singh - YouTube Growth Expert Chatbot
+# 🎯 YouTube Growth Expert Chatbot
 
 A powerful AI chatbot that provides personalized YouTube growth advice in natural Hinglish (Hindi + English). Built with Streamlit, Google AI, and advanced RAG (Retrieval-Augmented Generation) technology.
 
 ## 🌟 Features
 
-- **500K+ Subscriber Expert**: Hawa Singh has helped 1000+ creators grow their channels
+- **500K+ Subscriber Expert**: He has helped 1000+ creators grow their channels
 - **Natural Hinglish**: Converses in natural Hindi-English mix like a real YouTube expert
 - **Personalized Advice**: Learns about your channel and provides tailored recommendations
 - **Smart Context**: Uses extensive knowledge base of YouTube strategies and tips
@@ -46,7 +46,7 @@ python build_vector_database.py
 streamlit run launch_working_chatbot.py
 ```
 
-## 🎯 What Hawa Singh Can Help With
+## 🎯 What  Singh Can Help With
 
 - **Channel Growth Strategy** (0 to 100K+ subscribers)
 - **Content Planning & Creation**
@@ -58,10 +58,10 @@ streamlit run launch_working_chatbot.py
 ## 💡 Example Conversations
 
 **User**: "Hi, I'm starting a new YouTube channel about cooking"
-**Hawa Singh**: "Namaste! Main Hawa Singh hoon - YouTube growth expert with 500K+ subscribers. Cooking channel great choice hai! Main aapki help karunga..."
+** Singh**: "Namaste! Main  Singh hoon - YouTube growth expert with 500K+ subscribers. Cooking channel great choice hai! Main aapki help karunga..."
 
 **User**: "How can I get my first 1000 subscribers?"
-**Hawa Singh**: "First 1000 subscribers ke liye ye complete strategy follow karo..."
+** Singh**: "First 1000 subscribers ke liye ye complete strategy follow karo..."
 
 ## 🏗️ Architecture
 
@@ -124,7 +124,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- Hawa Singh for the YouTube expertise
+- Singh for the YouTube expertise
 - Google AI for the powerful language models
 - Streamlit for the amazing web framework
 - ChromaDB for vector storage
