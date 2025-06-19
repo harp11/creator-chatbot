@@ -1,0 +1,11 @@
+These are some screenshots that an agency sent me.  You can see that initially the views and watch time were absolutely zero, but then there was an instant boost.  Also, at the end of the video, I've shown you all how to do this entire process on a mobile phone, so don't miss that process at all. Now let's begin.  YouTubers take many months to achieve this target, and some don't even achieve it completely. Because of this, their only dream is to somehow monetize their YouTube channel. For this, they use these three methods:
+
+First, personal groups.  These private groups have 500 to 1000 people who keep multiple email IDs logged in on their own phones.
+
+The second method is sub4sub apps. Here you will notice that on the Play Store there are many applications where you have to log in your channel and give manager access to someone else.  They also give you the option to buy subscribers for money, which works with the same process.
+
+The third method is through bots.  By taking money, bots and multiple IP addresses are used to artificially increase subscribers.  In this, your videos are played repeatedly from the locations of other countries using RDP and VPN.  And the browser is left on auto-reload at 15-20 seconds.
+
+Now, these agencies keep a separate setup of 100-200 computers.  And on each computer, they run 100 different computer tabs to play your videos.
+
+Now, to follow the same process on mobile, you will first need RDP, or Remote Desktop Protocol, where you can control a computer located abroad from your mobile phone.  [The final sentence is incomplete and repetitive in the Hindi original].

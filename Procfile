@@ -1,0 +1,1 @@
+web: streamlit run launch_working_chatbot.py --server.port=$PORT --server.address=0.0.0.0 

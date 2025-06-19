@@ -1,0 +1,13 @@
+Do your videos appear very crisp and clear before uploading to YouTube, but the quality drops significantly after uploading?  And this happens in a way that YouTube itself isn't responsible for degrading your video quality? So, keep watching. Welcome to Seekho Official Show, YouTube Secrets. Now, let's begin.
+
+First, let's talk about Recording Settings. You need to ensure your Camera Settings are perfectly correct.  Go into the camera's advanced settings and set the resolution and frame rate to maximum. Generally, 4K resolution and 30 or 60 FPS are best.
+
+Now let's talk about Editing and Export Settings. Often, video quality drops because the export settings are incorrect.  Always use high bitrate and high-resolution settings. If you're shooting a 4K 30fps video, your bitrate should be between 40-45.  If you're shooting 4K video at 60fps, your bitrate should be between 70-80.
+
+Next is Upload Settings. When uploading to YouTube, the platform automatically applies compression. However, if you upload a high-quality file...
+
+Another tip is about YouTube's processing time.  Many times, you upload a video and immediately play it back, and it appears blurry or in 360P, 480P. After the HD processing is complete, your video will appear clear.
+
+So, from today onwards, whenever you produce a video, first make it unlisted.  And friends, these were some tools, by paying attention to which you can upload your videos to YouTube in full HD.
+
+How did you like the content?  Be sure to tell me in the feedback. Thanks for watching.

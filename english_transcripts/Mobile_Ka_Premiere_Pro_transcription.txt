@@ -1,0 +1,7 @@
+Dude, I can't believe it! Premiere Pro, the best video editor for laptops and desktops, is now available on mobile!  This app gives you the exact same Premiere Pro editing experience. You get the same timeline, layer logs, layer modes, and precise positioning features. And that's not all!
+
+First, when you open the app, you'll be asked to log in. For now, I'll log in with my Google account. After logging in, you'll see this interface. In just a few seconds, your photos will be made into a video.  We don't even see these features in Premiere Pro! Then, you need to import the media you want. So let's understand all this in the show.
+
+The further you touch this blue line, the faster your timeline will move in that direction. The closer you touch, the slower it will move.  That is, by touching "Your Media," you can import local audio, video, or photos. Or by touching "Audio," you can use the inbuilt music and sound effects in this app. By touching "Graphics," you can also use inbuilt professional titles, transitions, and overlays.
+
+When you touch the third icon in the bottom toolbar, your timeline will become exactly like Premiere Pro's, where you can work on multiple layers. And in audio, you get the option to enhance audio according to voice type. Auto-volume and noise reduction features are also available here.  In fact, just touch an element and you can place that element in the right place, paying attention to each pixel, in any way you want.
